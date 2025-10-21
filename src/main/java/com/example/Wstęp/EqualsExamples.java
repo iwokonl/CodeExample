@@ -31,8 +31,8 @@ public class EqualsExamples {
         String strLiteral3 = "example";
         String strLiteral4 = null;
 
-        System.out.println("Using 'equals()' with null: " + strLiteral3.equals(strLiteral4)); // false, strLiteral4 is null
-        System.out.println("Using 'equals()' with null safe: " + strLiteral4.equals(strLiteral3)); // false, strLiteral4 is null
+        System.out.println("Using 'equals()' with null safe: " + strLiteral3.equals(strLiteral4)); // false, strLiteral4 is null
+        System.out.println("Using 'equals()' with null: " + strLiteral4.equals(strLiteral3)); // false, strLiteral4 is null
     }
 
 
