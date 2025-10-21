@@ -1,4 +1,4 @@
-package com.example.Lession_II.DesignPatterns.builder;
+package com.example.Lession_II.DesignPatterns.wzorce;
 
 
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.example.Lession_II.OOP.dziedziczenie;
+package com.example.Lession_II.dziedziczenie;
 
 public class Main {
     static void main(String[] args) {
