@@ -1,4 +1,4 @@
-package com.example.Lession_II.dziedziczenie;
+package com.example.Lession_II.OOP;
 
 public final class Pudel extends Pies implements ISzczekanie{
     public String getRasa() {

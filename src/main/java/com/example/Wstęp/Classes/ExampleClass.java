@@ -1,7 +1,6 @@
-package com.example.Wstęp.classes;
+package com.example.Wstęp.Classes;
 
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

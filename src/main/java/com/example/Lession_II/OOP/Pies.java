@@ -1,4 +1,4 @@
-package com.example.Lession_II.dziedziczenie;
+package com.example.Lession_II.OOP;
 
 import java.util.Objects;
 

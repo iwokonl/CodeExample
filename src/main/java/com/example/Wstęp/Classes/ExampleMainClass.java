@@ -1,4 +1,4 @@
-package com.example.Wstęp.classes;
+package com.example.Wstęp.Classes;
 
 public class ExampleMainClass {
 

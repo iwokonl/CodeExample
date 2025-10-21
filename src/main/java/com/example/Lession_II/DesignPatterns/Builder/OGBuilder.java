@@ -1,5 +1,5 @@
 // src/main/java/com/example/Lession_II/DesignPatterns/builder/OGBuilder.java
-package com.example.Lession_II.DesignPatterns.wzorce;
+package com.example.Lession_II.DesignPatterns.Builder;
 
 public class OGBuilder {
 

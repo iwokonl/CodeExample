@@ -1,4 +1,4 @@
-package com.example.Lession_II.DesignPatterns.wzorce;
+package com.example.Lession_II.DesignPatterns.Builder;
 
 public interface IOGBuilder {
     IOGBuilder setField1(String field1);

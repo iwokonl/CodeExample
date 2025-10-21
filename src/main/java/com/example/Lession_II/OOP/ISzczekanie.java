@@ -1,4 +1,4 @@
-package com.example.Lession_II.dziedziczenie;
+package com.example.Lession_II.OOP;
 
 public interface ISzczekanie {
 
